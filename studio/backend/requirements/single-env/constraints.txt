@@ -5,7 +5,7 @@ trl==0.23.1
 huggingface-hub==0.36.2
 
 # Unsloth stack
-datasets==4.3.0
+datasets==5.0.1
 pyarrow==23.0.1
 
 # FastMCP compat
