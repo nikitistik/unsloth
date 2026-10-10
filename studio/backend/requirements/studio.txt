@@ -7,7 +7,7 @@ packaging
 matplotlib==3.10.9
 pandas
 nest_asyncio
-datasets==4.3.0
+datasets==5.0.1
 pyjwt
 # gradio>=4.0.0                  # 148 MB - Unsloth uses React + FastAPI, not Gradio
 huggingface-hub==0.36.2
